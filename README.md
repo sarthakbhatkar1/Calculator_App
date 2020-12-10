@@ -1,6 +1,6 @@
 # Calculator App
 
-This is a simple calculator app using flutter.
+This is a simple calculator app using flutter.<br/>
 Sample images are in 𝘦𝘹𝘢𝘮𝘱𝘭𝘦.
 
 
